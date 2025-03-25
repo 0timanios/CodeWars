@@ -1,0 +1,11 @@
+
+{
+    "Print Kata Comment": {
+        "scope": "javascript",
+        "prefix": "kata",
+        "body": [
+            "// Kata Link: "
+        ],
+        "description": "Shortcut to create comment to add kata link"
+    }
+}
